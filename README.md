@@ -1,4 +1,4 @@
-#Large Deviation Theory Thesis
+## Large Deviation Theory Thesis
 
 This is my capstone project for the math major at Middlebury College. I 
 researched Large Deviation Theory, which is a subsection of advanced
